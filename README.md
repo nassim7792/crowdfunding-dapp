@@ -14,7 +14,7 @@ Trustless Ethereum crowdfunding with on-chain campaign logic, MetaMask transacti
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-wallet-E2761B?logo=metamask&logoColor=white)](https://metamask.io/)
 
-> Projet réalisé en binôme avec Abdelkrim BELLAGNECH
+
 
 </div>
 
